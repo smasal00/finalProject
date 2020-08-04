@@ -16,9 +16,7 @@
     "react-spinners": "^0.9.0",
     "styled-components": "^5.1.1",
     "sweetalert2": "^9.17.1"
-    "engines": {
-    "node": "12.x"
-  }
+   
   },
   "scripts": {
     "start": "react-scripts start",
